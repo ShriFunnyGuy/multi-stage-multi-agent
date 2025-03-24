@@ -5,3 +5,4 @@ Set up a multi stage jenkins pipeline where each stage is run on a unique agent.
 
 ![image](https://github.com/user-attachments/assets/11a7de3a-6963-42f0-8a18-cfc9b1b520ff)
 
+Old Approch------------------------------------------------------------------------> Nea Approch
